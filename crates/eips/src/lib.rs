@@ -62,3 +62,6 @@ pub use eip7892::{BlobScheduleBlobParams, BlobScheduleEntry};
 pub mod eip7910;
 
 pub mod eip7928;
+
+// TODO: Rename to EIPXXX
+pub mod modexp_contract;
